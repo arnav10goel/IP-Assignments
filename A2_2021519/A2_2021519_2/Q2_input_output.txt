@@ -1,0 +1,6 @@
+The original X-coordinates are: [3.0, -1.0, -1.0, 3.0, 3.0, 3.0, -1.0, -1.0, 6.0]
+The original Y-coordinates are: [1.0, 1.0, 1.0, 1.0, 5.0, 5.0, 5.0, 5.0, 6.0]
+The original Z-coordinates are: [2.0, -2.0, 4.0, 4.0, 4.0, -2.0, -2.0, 4.0, 6.0]
+The transformed X-coordinates of the vertices are: [4.227251404090404, 0.2272526723630648, 0.2272526723630648, 4.227251404090404, 5.473969999225802, 5.473969999225802, 1.473971267498463, 1.473971267498463, 8.785648696805156]
+The transformed Y-coordinates of the vertices are: [3.5, 3.5, 3.5, 3.5, 9.5, 9.5, 9.5, 9.5, 11.0]
+The transformed Z-coordinates of the vertices are: [9.0, -3.0, 15.0, 15.0, 15.0, -3.0, -3.0, 15.0, 21.0]
